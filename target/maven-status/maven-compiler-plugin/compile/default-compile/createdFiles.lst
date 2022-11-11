@@ -1,0 +1,16 @@
+br\com\fiap\gs2\config\security\AuthenticationConfig.class
+br\com\fiap\gs2\model\Role.class
+br\com\fiap\gs2\controller\web\UserWebController.class
+br\com\fiap\gs2\model\User.class
+br\com\fiap\gs2\dto\UserDto.class
+br\com\fiap\gs2\config\TestConfiguration.class
+br\com\fiap\gs2\model\Carro.class
+br\com\fiap\gs2\service\UserService.class
+br\com\fiap\gs2\repository\UserRepository.class
+br\com\fiap\gs2\service\UserDetailsServiceImp.class
+br\com\fiap\gs2\service\CarroService.class
+br\com\fiap\gs2\controller\UserController.class
+br\com\fiap\gs2\controller\web\CarroWebController.class
+br\com\fiap\gs2\repository\CarroRepository.class
+br\com\fiap\gs2\controller\CarroController.class
+br\com\fiap\gs2\Gs2Application.class
